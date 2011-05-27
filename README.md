@@ -8,10 +8,10 @@ This script can be used to backup MySQL databases that are stored on an EBS volu
 * mysql
 * ruby
 * rubygems
-** mysql
-** open4
-** fog
-** active_support
+ * mysql
+ * open4
+ * fog
+ * active_support
 
 # Configuration
 
